@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "194675777116",
+    "firebase_url": "https://mulikamwizi-f146c.firebaseio.com",
+    "project_id": "mulikamwizi-f146c",
+    "storage_bucket": "mulikamwizi-f146c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194675777116:android:924c796c0d3dc353",
+        "android_client_info": {
+          "package_name": "com.example.technician.mulikamwizi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194675777116-iuulr5qj0n9kt0uhm14baaujlr0ja6q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technician.mulikamwizi",
+            "certificate_hash": "d132d8066851b0fa3ad02ce712e33de450791cf4"
+          }
+        },
+        {
+          "client_id": "194675777116-vdud44ieqo8gh6d36fjq1t2mj6plrhk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technician.mulikamwizi",
+            "certificate_hash": "9af5700105c70d2b856e5e14efc66aaac1882a36"
+          }
+        },
+        {
+          "client_id": "194675777116-8mbomrbp9u2636mcllmkj8bp6a4pekrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpyHBSgUYpfueiXO8LZiRb1i-5vwME-zI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194675777116-8mbomrbp9u2636mcllmkj8bp6a4pekrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
